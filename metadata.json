@@ -1,0 +1,7 @@
+{
+  "name": "NeuroMap GIS",
+  "description": "A next-generation AI-powered Geographic Information System. Visualize data, perform spatial analysis with Gemini 2.5, and generate dynamic map layers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

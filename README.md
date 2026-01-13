@@ -3,7 +3,7 @@
 A powerful geospatial analysis tool powered by Google's Gemini AI. This application combines an interactive map interface with the reasoning capabilities of Gemini to allow users to search, analyze, and visualize geographic data using natural language.
 
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="./screenshot_pic/image.png" />
+<img width="1200" height="475" alt="GHBanner" src="./screenshot_pic/main_page.png" />
 <img width="1200" height="475" alt="GHBanner" src="./screenshot_pic/analysis.png" />
 </div>
 
